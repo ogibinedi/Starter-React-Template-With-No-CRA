@@ -13,6 +13,7 @@ just clone this repo
 2.  Using SSH
 
 ``git clone git@github.com:ogibinedi/Starter-React-Template-With-No-CRA.git``
+
 3.  Download Directly
 [From this link](https://github.com/ogibinedi/Starter-React-Template-With-No-CRA/archive/refs/heads/main.zip)
 
@@ -25,4 +26,5 @@ Go to the root of project which already downloaded and type command from your te
 3.  `` npm build`` to run build for production purposes
 
 That all i got
-Happy hacking
+
+Happy hacking :-)
