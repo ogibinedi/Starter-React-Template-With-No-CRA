@@ -2,7 +2,9 @@ import React from 'react';
 
 const App = () => {
   return (
-    <div>Hello React Without CRA</div>
+    <div>
+        <h1>Hello React Without CRA</h1>
+    </div>
   )
 }
 
